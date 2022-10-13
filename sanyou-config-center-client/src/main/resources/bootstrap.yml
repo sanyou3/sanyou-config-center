@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    sanyou:
+      config:
+        server-addr: localhost:8888 #配置中心的地址
+        file-id: 79765c73-c1ef-4ea2-ba77-5d27a64c4685 #配置文件的id
